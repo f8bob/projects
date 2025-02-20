@@ -1,0 +1,197 @@
+[
+    {
+        "question": "What tag is used to display text on a web page in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you declare a variable in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you output the content of a variable to the screen?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "What operators are used for comparison in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you add a comment in PHP code?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you check if a file exists in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "Which PHP function can you use to join an array of strings into one string?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you check if a variable is an array in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you get the current date and time in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "What operator is used to concatenate two strings in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "What special constants are used to represent true and false in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you access the last element of an array in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you check if a specific variable exists in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "Which operator is used to check the truth of two conditions simultaneously in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "What tag is used to embed PHP code within HTML?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you get the length of a string in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "Which operator is used to execute a conditional statement in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "Which operator is used to loop through code execution in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "Which PHP function can you use to validate the correctness of an email address?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you create a new function in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you declare a constant in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you check if a string contains a specific word in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you convert a string to lowercase in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you remove an element from an array by value in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you get the IP address of a client in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you execute an SQL query to a database in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you add an element to the end of an array in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you output array elements in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you check if a number is even in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you create a new object of a class in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you output an error message and terminate script execution in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you check if a variable is empty in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you declare an associative array in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you get the number of elements in an array in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you create a file in PHP and write data to it?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you get a random number within a specified range in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "How do you iterate through the keys and values of an associative array in PHP?",
+        "description": "",
+        "type": "textarea"
+    },
+    {
+        "question": "How do you sort an array by value in PHP?",
+        "description": "",
+        "type": "text"
+    },
+    {
+        "question": "What could be the reasons for the error ",
+        "description": "This error occurs when a PHP script ________. Some common reasons for this error include: ___________",
+        "type": "textarea"
+    }
+]
